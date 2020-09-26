@@ -2,8 +2,8 @@
   {
     "id": 1,
     "urls": {
-      "urle": "http://89.187.169.200:2200/EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=null",
-      "agentE":"KAIOS/2.0",
+      "urle": "http://89.187.182.195:25461/streaming/clients_live.php?username=joker&password=joker&stream=94781&extension=ts&token=TREMWUEJGlxBBQQCBQEIUQ5TA1IBDAwEAQABB10CUVAGBFRdV1INBFFDShFEQUtSVw5vDwcXDwwHAQBSSURFQVNBO1FWQwJEUlBfCwMCDxUaQUQPDlAXDwIACFJUVwMFBwpIGkIIXERZQ1UAAQQJDhRPEgMbQVBHXVdUPAEDRltVVkYCXBRUCk9DCV1oUVxaVw1URFkXBRcfFFEQFUQKXENfCBQQA1ESEQASVhUPGwYCUQJETxdWWkZYTBEcRAoQf31GFBAEQBIGDxVaWFsbDRQXQ0RPF1xGbERdEBEUVVNbVhYaCEMIRE9DC1JPalpYWA1VBRdcWltAFAJBV0QcEFtcClFGDko5EwgCEQ0XDQUEVwRWQUg=",
+      "agentE":"ExoPlayerDemo/40 (Linux;Android 7.1.1) ExoPlayerLib/2.11.7",
       "urlh": "http://89.187.169.200:2200/EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=null",
       "agentH":"KAIOS/2.0"
     }
