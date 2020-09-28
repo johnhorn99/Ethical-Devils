@@ -4,8 +4,8 @@
     "urls": {
       "urle": "http://185.59.222.236:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
       "agentE": "REDLINECLIENT TS2500_HD_PLUS_D V24.81",
-      "urlh": "http://185.246.210.56:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
-      "agentH": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
+      "urlh": "http://speciallive.hjkm.info:11990/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDIwIDc6MzU6NTUgUE0maGFzaF92YWx1ZT0vZ0RIM2FsQk5iclhpTEJEamZrb2hBPT0mdmFsaWRtaW51dGVzPTI=",
+      "agentH": "WYVPxdgH4xSQUJ0pwqVYue8szE++gWyJ0XmJSt1RpzC6QIoR15QOFRDlvFVRnvJI"
     }
   }
 ]
