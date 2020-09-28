@@ -2,9 +2,9 @@
   {
     "id": 1,
     "urls": {
-      "urle": "http://89.187.169.200:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
+      "urle": "http://185.59.222.236:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
       "agentE": "REDLINECLIENT TS2500_HD_PLUS_D V24.81",
-      "urlh": "http://89.187.169.205:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
+      "urlh": "http://185.246.210.56:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
       "agentH": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
     }
   }
