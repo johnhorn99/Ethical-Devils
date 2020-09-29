@@ -2,10 +2,10 @@
   {
     "id": 1,
     "urls": {
-      "urle": "http://89.187.169.200:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
-      "agentE": "REDLINECLIENT TS2500_HD_PLUS_D V24.81",
-      "urlh": "http://speciallive.hjkm.info:11990/juno/starsports1hindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDIwIDk6MTY6MzQgUE0maGFzaF92YWx1ZT1EaThPQWs2RjI3VkpKc1UvVzdrODdBPT0mdmFsaWRtaW51dGVzPTI=",
-      "agentH": "stagefright/1.2 (Linux;Android 5.2.3)"
+      "urle": "https://watchindia.net:8443/live/84316/32237/808.ts",
+      "agentE": "KAIOS/2.0",
+      "urlh": "https://watchindia.net:8443/live/84316/32237/1072.ts",
+      "agentH": "KAIOS/2.0"
     }
   }
 ]
