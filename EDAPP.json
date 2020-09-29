@@ -3,9 +3,9 @@
     "id": 1,
     "urls": {
       "urle": "https://watchindia.net:8443/live/84316/32237/808.ts",
-      "agentE": "KAIOS/2.0",
+      "agentE": "",
       "urlh": "https://watchindia.net:8443/live/84316/32237/1072.ts",
-      "agentH": "KAIOS/2.0"
+      "agentH": ""
     }
   }
 ]
