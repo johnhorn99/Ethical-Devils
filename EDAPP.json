@@ -2,6 +2,7 @@
   {
     "urls": {
       "c1": {
+        "id":1,
         "title": "IPL Live English(HD)",
         "url": "https://watchindia.net:8443/live/84316/32237/2162.ts",
         "referer": "",
@@ -9,6 +10,7 @@
         "agent": ""
       },
       "c2": {
+        "id":2,
         "title": "IPL Live English(SD)",
         "url": "https://watchindia.net:8443/live/84316/32237/1070.ts",
         "referer": "",
@@ -16,6 +18,7 @@
         "agent": ""
       },
       "c3": {
+        "id":3,
         "title": "IPL Live Hindi(HD)",
         "url": "https://watchindia.net:8443/live/84316/32237/1072.m3u8",
         "referer": "",
@@ -23,6 +26,7 @@
         "agent": ""
       },
       "c4": {
+        "id":4,
         "title": "IPL Live Hindi(SD)",
         "url": "https://slave4.jio-connect.live/hls/c8916a35ff84ada0040133abf8ce20ba1601049370480-0.m3u8",
         "referer": "https://hindiholic.me/",
