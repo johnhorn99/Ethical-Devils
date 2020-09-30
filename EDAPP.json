@@ -3,17 +3,17 @@
     "id": 1,
     "urls": {
       "urle": "https://watchindia.net:8443/live/84316/32237/808.ts",
-      "agentE": "",
       "refererE": "",
+      "agentE": "",
       "urles": "http://speciallive.hjkm.info:11990/juno/starsports1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDEyOjMxOjIwIFBNJmhhc2hfdmFsdWU9YnltRmJyd25kOHcvbTZhYlRaamNVdz09JnZhbGlkbWludXRlcz0y",
-      "agentES": "",
       "refererES": "",
+      "agentES": "",
       "urlh": "http://live12p.hotstar.com/hls/live/2003697/ipl2020/hin/1540002211/fulldvrm010aab56a42ab44a628e973f330e3aa4ad29september2020/20200929T112644/master_12/00000/master_12_01374.ts",
-      "agentH": "Hotstar;in.startv.hotstar/11.0.3.870 (Android/9)",
       "refererH": "",
+      "agentH": "Hotstar;in.startv.hotstar/11.0.3.870 (Android/9)",
       "urlhs": "https://slave4.jio-connect.live/hls/c8916a35ff84ada0040133abf8ce20ba1601049370480-0.m3u8",
-      "agentHS": "",
-      "refererHS": "https://hindiholic.me/"
+      "refererHS": "https://hindiholic.me/",
+      "agentHS": ""
     }
   }
 ]
