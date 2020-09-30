@@ -1,33 +1,33 @@
 [
   {
-     "urls": {
+    "urls": {
       "c1": {
-        "t0": "IPL Live English(HD)",
-        "u0": "https://watchindia.net:8443/live/84316/32237/2162.ts",
-        "r0": "",
-        "i0": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "a0": ""
+        "title": "IPL Live English(HD)",
+        "url": "https://watchindia.net:8443/live/84316/32237/2162.ts",
+        "referer": "",
+        "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
+        "agent": ""
       },
       "c2": {
-        "t1": "IPL Live English(SD)",
-        "u1": "https://watchindia.net:8443/live/84316/32237/1070.ts",
-        "r1": "",
-        "i1": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "a1": ""
+        "title": "IPL Live English(SD)",
+        "url": "https://watchindia.net:8443/live/84316/32237/1070.ts",
+        "referer": "",
+        "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
+        "agent": ""
       },
       "c3": {
-        "t2": "IPL Live Hindi(HD)",
-        "u2": "https://watchindia.net:8443/live/84316/32237/1072.m3u8",
-        "r2": "",
-        "i2": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "a2": ""
+        "title": "IPL Live Hindi(HD)",
+        "url": "https://watchindia.net:8443/live/84316/32237/1072.m3u8",
+        "referer": "",
+        "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
+        "agent": ""
       },
       "c4": {
-        "t3": "IPL Live Hindi(SD)",
-        "u3": "https://slave4.jio-connect.live/hls/c8916a35ff84ada0040133abf8ce20ba1601049370480-0.m3u8",
-        "r3": "https://hindiholic.me/",
-        "i3": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "a3": ""
+        "title": "IPL Live Hindi(SD)",
+        "url": "https://slave4.jio-connect.live/hls/c8916a35ff84ada0040133abf8ce20ba1601049370480-0.m3u8",
+        "referer": "https://hindiholic.me/",
+        "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
+        "agent": ""
       }
     }
   }
