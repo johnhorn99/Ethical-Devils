@@ -4,8 +4,12 @@
     "urls": {
       "urle": "https://watchindia.net:8443/live/84316/32237/808.ts",
       "agentE": "",
+      "urles": "https://watchindia.net:8443/live/84316/32237/808.ts",
+      "agentES": "",
       "urlh": "http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
-      "agentH": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
+      "agentH": "",
+      "urlhs": "http://speciallive.hjkm.info:11990/juno/starsports1hindi/chunks.m3u8?nimblesessionid=3174973&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDEwOjAwOjM2IEFNJmhhc2hfdmFsdWU9TWcxaVVnT0ZYWVBqY1BWVTZjd2gzZz09JnZhbGlkbWludXRlcz0y",
+      "agentHS": ""
     }
   }
 ]
