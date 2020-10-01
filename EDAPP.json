@@ -4,10 +4,10 @@
       "c1": {
         "id":1,
         "title": "IPL Live English(HD)",
-        "url": "http://185.246.210.56:2200/EX/starsports1hd-in/tracks-v1a1/2020/10/01/07/09/58-04960.ts?token=",
+        "url": "https://watchindia.net:8443/live/55880/12039/808.ts",
         "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "agent": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
+        "agent": ""
       },
       "c2": {
         "id":2,
@@ -15,12 +15,12 @@
         "url": "http://89.187.169.203:2200/EX/starsports2hd-in/index.m3u8?token=",
         "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "agent": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
+        "agent": ""
       },
       "c3": {
         "id":3,
         "title": "IPL Live Hindi(HD)",
-        "url": "https://watchindia.net:8443/live/84316/32237/1072.m3u8",
+        "url": "https://watchindia.net:8443/live/55880/12039/1072.ts",
         "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
         "agent": ""
