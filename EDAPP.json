@@ -12,10 +12,10 @@
       "c2": {
         "id":2,
         "title": "IPL Live English(SD)",
-        "url": "https://watchindia.net:8443/live/84316/32237/1070.ts",
+        "url": "http://89.187.169.203:2200/EX/starsports2hd-in/index.m3u8?token=",
         "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
-        "agent": ""
+        "agent": "REDLINECLIENT TS2500_HD_PLUS_D V24.81"
       },
       "c3": {
         "id":3,
