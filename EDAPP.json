@@ -28,8 +28,8 @@
       "c4": {
         "id":4,
         "title": "IPL Live Hindi(SD)",
-        "url": "https://slave4.jio-connect.live/hls/c8916a35ff84ada0040133abf8ce20ba1601049370480-0.m3u8",
-        "referer": "https://hindiholic.me/",
+        "url": "http://185.246.210.51:2200/EX/starsports1hd-in/index.m3u8?token=",
+        "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
         "agent": ""
       }
