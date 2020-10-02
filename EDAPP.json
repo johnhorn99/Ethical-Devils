@@ -28,7 +28,7 @@
       "c4": {
         "id":4,
         "title": "IPL Live Hindi(SD)",
-        "url": "https://rtmpstream-inct.streaming.media.azure.net/ed0834e2-b9f7-4b1f-8ec0-563d10de9cfe/858a74db-8223-447b-9ba5-f06dce142ecc.ism/manifest(format=m3u8-aapl)",
+        "url": "http://89.187.169.206:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
         "referer": "",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
         "agent": ""
