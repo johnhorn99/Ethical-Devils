@@ -12,8 +12,8 @@
       "c2": {
         "id":2,
         "title": "IPL Live English(SD)",
-        "url": "http://89.187.169.203:2200/EX/starsports2hd-in/index.m3u8?token=",
-        "referer": "",
+        "url": "https://ul.cdn946.net:8443/hls/goiz048.m3u8?s=JoWveeVYJcvxG7r3z1EdVg&e=1601742126",
+        "referer": "https://wstream.to/",
         "image": "https://images.mid-day.com/images/2020/aug/iol-drea_d.jpg",
         "agent": ""
       },
